@@ -1,9 +1,6 @@
-nav{
-	
-}
 #bg { position: fixed; top: 0; left: 0; }
-.bgwidth { width: 100%; }
-.bgheight { height: 100%; }
+	.bgwidth { width: 100%; }
+	.bgheight { height: 100%; }
 nav{
 	ul{
 		text-align:center!important;
@@ -45,7 +42,6 @@ img{
 .bajada{
 	font-size: 16px;
 	color: #FFF;
-	line-height: 60px !important;
 	font-weight: bold;
 	z-index: 3;
 	position: absolute;
@@ -53,9 +49,13 @@ img{
 	top: 55%;
 	transform: translate(-50%, -50%);
 }
-.btn{
+.btn-large{
 	position: absolute;
 	left: 50%;
-	top: 65%;
+	top: 67%;
 	transform: translate(-50%, -50%);
+}
+.second-section{
+	position: absolute;
+	top: 90%;
 }

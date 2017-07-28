@@ -1,4 +1,5 @@
 $(document).ready(function(){
+	//funcion para full bg
 	$(window).load(function() {    
 
 	var theWindow        = $(window),
